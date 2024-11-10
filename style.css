@@ -1,0 +1,33 @@
+body {
+    background-color: darkseagreen
+}
+
+#container {
+    text-align: center;
+}
+
+.button {
+    border-radius: 20px;
+    border: 1px solid black;
+    font-size: 16px;
+    padding: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.button:hover {
+    background-color: rgb(245, 245, 245);
+}
+
+.button:active {
+    background-color: white;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
